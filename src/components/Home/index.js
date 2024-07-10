@@ -36,7 +36,7 @@ export default function index() {
                 <Puppysale />
             </div>
             <Features />
-            <Tokenomics />
+            {/* <Tokenomics /> */}
             {/* <Informationcard /> */}
             <Buypuppy />
             <Mission />
