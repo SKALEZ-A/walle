@@ -7,10 +7,10 @@ export default function Tokenomics() {
                 <div className=' max-w-[838px] mx-auto  ' >
             <h3 className=' f-f-r-b font-medium text-xl md:text-4xl text-primary '  >Tokenomics</h3>
             <p className=' text-grey-light f-f-m text-tiny md:text-lg mt-[64px] ' >
-            PuppyLove Tokenomics demonstrates its vision and goal, a meme token that is more than a meme
+            WallE Tokenomics demonstrates its vision and goal, a meme token that is more than a meme
             </p>
             <p className=' text-grey-light f-f-m text-tiny md:text-lg mt-6 ' >
-            $PuppyLove is designed to be deflationary. 40% of total supply will be burned at launch.
+            $WallE is designed to be deflationary. 40% of total supply will be burned at launch.
             </p>
 <a href=" #">
            <button className=' my-8 w-[162px] h-[52px] rounded-[58px] bg-white text-primary-dark f-f-sm text-tiny ' >
