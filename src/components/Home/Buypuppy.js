@@ -44,7 +44,7 @@ export default function Buypuppy() {
                 </button>
               </div>
               <div className=' col-span-12 sm:col-span-6 ' >
-                {/* <h2 className=' f-f-m text-base text-white text-center ' >0x798b....69a8Fa2</h2> */}
+                <h2 className=' f-f-m text-base text-white text-center ' >EQDXg0LpFlt14PQr0ZE14bf-OLGzJ8S44QZGWbWxVFkeTsPa</h2>
               </div>
               <div className=' col-span-12 sm:col-span-3 text-center sm:text-right ' >
                 <button onClick={handleCopy} >
@@ -108,16 +108,6 @@ export default function Buypuppy() {
               </div>
               {/* one end */}
               {/* one */}
-              <div className=' col-span-6  ' >
-                <h2 className=' f-f-r text-white text-tiny ' >
-                  Liquidity
-                </h2>
-              </div>
-              <div className=' col-span-6  ' >
-                <h2 className=' f-f-r text-white text-tiny text-right ' >
-                  Burned
-                </h2>
-              </div>
               {/* one end */}
               {/* one */}
               {/* <div className=' col-span-6  ' >
