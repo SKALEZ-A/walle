@@ -68,13 +68,13 @@ export default function Community() {
             </div>
             {/* inner grid ended */}
           </div>
-          <div className=' col-span-12 md:col-span-6  md:hidden   ' >
-            <img src={Cummnitypic} className=' w-full h-[365px] object-cover rounded-[24px] ' />
-          </div>
+          {/* <div className=' col-span-12 md:col-span-6  md:hidden   ' > */}
+            {/* <img src={Cummnitypic} className=' w-full h-[365px] object-cover rounded-[24px] ' /> */}
+          {/* </div> */}
         </div>
       </div>
 
-      <img src={Dog} className=' w-[267px] h-[418px] absolute top-[100px] right-0 hidden 2xl:block ' />
+      {/* <img src={Dog} className=' w-[267px] h-[418px] absolute top-[100px] right-0 hidden 2xl:block ' /> */}
     </div>
   )
 }
