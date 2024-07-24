@@ -26,9 +26,9 @@ export default function Roadmap() {
                                 <li className=' f-f-r text-tiny text-grey-dark ' >
                                     Website and Social Media Launch
                                 </li>
-                                {/* <li className=' f-f-r text-tiny text-grey-dark ' >
-                                    Presale Event
-                                </li> */}
+                                <li className=' f-f-r text-tiny text-grey-dark ' >
+                                    Ton Farm Bot for possible airdrop.
+                                </li>
                                 <li className=' f-f-r text-tiny text-grey-dark ' >
                                     Community AMA Sessions
                                 </li>

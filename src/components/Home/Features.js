@@ -25,6 +25,7 @@ export default function Features() {
                         <h2 className=' f-f-sm text-xl text-white my-4 ' > $WALLE HODL</h2>
                         <p className=' f-f-r text-tiny text-grey-light' >
                               WALLE is a rare gem at its infancy. Simply HODL your $WALLE bag and together we can make $WALLE great just like their parents -  $Notcoin, $TonFish, $Floki and many others.
+Farm $WALLE points on telegram to earn more tokens.
                         </p>
 
 
